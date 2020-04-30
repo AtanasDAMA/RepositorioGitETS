@@ -24,6 +24,7 @@ public class Inicio {
         Scanner sc = new Scanner(System.in);
         
         System.out.println("Estoy cambiando el programa");
+        System.out.println("Cambio #2");
         
         while (true) {
             //Pide al usuario una fecha.

@@ -25,6 +25,7 @@ public class Inicio {
         
         System.out.println("Estoy cambiando el programa");
         System.out.println("Cambio #2");
+        System.out.println("Cambio #3");
         
         while (true) {
             //Pide al usuario una fecha.

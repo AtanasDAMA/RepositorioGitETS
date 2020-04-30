@@ -22,7 +22,9 @@ public class Inicio {
         DiaSiguiente fecha;
         fecha = new DiaSiguiente();
         Scanner sc = new Scanner(System.in);
-
+        
+        System.out.println("Estoy cambiando el programa");
+        
         while (true) {
             //Pide al usuario una fecha.
             System.out.println("\nEscriba Dia 0, Mes 0, Año 0 para salir\n");
